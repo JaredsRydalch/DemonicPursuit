@@ -1,0 +1,39 @@
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\bin\Debug\Book of the Dead.exe
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\bin\Debug\Book of the Dead.pdb
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form1.resources
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Properties.Resources.resources
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\Book of the Dead.exe
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\Book of the Dead.pdb
+C:\Users\13104039\AppData\Local\Temporary Projects\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form2.resources
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.exe
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.pdb
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.exe
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.pdb
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form1.resources
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form2.resources
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Properties.Resources.resources
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Tyler Stephens Computer Programming\Book of the Dead\Book of the Dead\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.exe
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.pdb
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form1.resources
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form2.resources
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.exe
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.pdb
+P:\Jared Rydalch\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Properties.Resources.resources
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.exe
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.pdb
+E:\Personal Projects\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.exe
+E:\Personal Projects\Book of the Dead\Book of the Dead\bin\Debug\Book of the Dead.pdb
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.csprojResolveAssemblyReference.cache
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form1.resources
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Form2.resources
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book_of_the_Dead.Properties.Resources.resources
+E:\Personal Projects\Book of the Dead\Book of the Dead\obj\x86\Debug\Book of the Dead.csproj.GenerateResource.Cache
